@@ -1,0 +1,47 @@
+ fieldset{
+        background-color:#92E4F7;
+        border:none;
+        border-radius:10px;
+        margin :55px 0 0 250px;
+        width:500px;
+        height:450px;
+
+}
+
+h2 {
+     background-color:#0ABAD2;
+     color:#0A0D0F;
+     margin:0 -11px 0 -11px;
+     padding:15px;
+     position: relative;
+     Bottom:4.5px;
+     border-radius:10px;
+
+}
+
+.zebra {
+
+    width: 330px;
+    height:40px;
+    border:none;
+    border-radius:10px;
+    text-align: center;
+    margin-left:50px;
+    font-size:15px;
+    font-weight:bold;
+}
+
+#login {
+
+    width :150px;
+    height:45px;
+    border-radius:10px;
+    border:none;
+    margin-top:-7px;
+    background-color:#F4FCFC ;
+    color:#0A0D0F;
+    margin-left:145px;
+    font-size:20px;
+    font-weight:bold;
+
+}
